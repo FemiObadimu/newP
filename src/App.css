@@ -1,5 +1,21 @@
-@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap");
 
 * {
-  font-family: "Ubuntu", sans-serif !important;
+  font-family: "Poppins", sans-serif !important;
+}
+
+.main {
+  color: #ffce31 !important;
+}
+
+.mainbg {
+  background-color: #ffce31 !important;
+}
+
+.primary {
+  color: #1849c6 !important;
+}
+
+.primarybg {
+  background-color: #1849c6 !important;
 }
